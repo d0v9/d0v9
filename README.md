@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=1272545050102071460)
 
-A backend developer, currently working on **evict.bot**. 
+A backend developer, currently working @ [**evict.bot**](https://evict.bot). 
 
