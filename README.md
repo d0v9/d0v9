@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 A backend developer, currently working @ [**evict.bot**](https://evict.bot). 
 
-![Python](https://banner2.cleanpng.com/20181128/cbr/kisspng-python-programming-basics-for-absolute-beginners-michigan-python-user-group-5-jul-2-18-1713916787253.webp)
 
