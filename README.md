@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm d0v9
 
 <!--
 **d0v9/d0v9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Im d0v9, 
-A backend developer, currently working on **evict.bot**. 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=1272545050102071460)
+
+A backend developer, currently working on **evict.bot**. 
+
