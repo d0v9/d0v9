@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## Im d0v9, 
 A backend developer, currently working on **evict.bot**. 
-https://discord-readme-badge.vercel.app/api?id=1272545050102071460
+![My Discord](https://discord-readme-badge.vercel.app/api?id=1272545050102071460)
